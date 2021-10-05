@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/medilab-website/static/css/main.dcb37265.chunk.css",
+    "main.js": "/medilab-website/static/js/main.64ad55e2.chunk.js",
+    "main.js.map": "/medilab-website/static/js/main.64ad55e2.chunk.js.map",
+    "runtime-main.js": "/medilab-website/static/js/runtime-main.d1371793.js",
+    "runtime-main.js.map": "/medilab-website/static/js/runtime-main.d1371793.js.map",
+    "static/js/2.ffb324a1.chunk.js": "/medilab-website/static/js/2.ffb324a1.chunk.js",
+    "static/js/2.ffb324a1.chunk.js.map": "/medilab-website/static/js/2.ffb324a1.chunk.js.map",
+    "index.html": "/medilab-website/index.html",
+    "static/css/main.dcb37265.chunk.css.map": "/medilab-website/static/css/main.dcb37265.chunk.css.map",
+    "static/js/2.ffb324a1.chunk.js.LICENSE.txt": "/medilab-website/static/js/2.ffb324a1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/medilab-website/static/media/img2.fe118674.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1371793.js",
+    "static/js/2.ffb324a1.chunk.js",
+    "static/css/main.dcb37265.chunk.css",
+    "static/js/main.64ad55e2.chunk.js"
+  ]
+}
